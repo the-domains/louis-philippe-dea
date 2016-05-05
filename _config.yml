@@ -1,0 +1,28 @@
+name: Louis-Philippe Dea
+favicon: null
+layout_spectrum: 0.8760009065736085
+typography_spectrum: 0.15795972500927746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.24149696179665625
+  lightness: 0.02875981363467872
+  saturation: 0.38493252638727427
+  rhythmicContrast: 0.08328549540601671
+purpose: []
